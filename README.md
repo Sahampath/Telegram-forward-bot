@@ -18,12 +18,13 @@
 
 To use :
 Make .env File and inside the file
-"`
+
+```bash
 BOT_TOKEN=70####8488:AA#############k1CZ########kCI
 GROUP_ID=-10#######5668
-`"
+```
 
-#
+---
 ### 👨‍💻 Programming languages
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
