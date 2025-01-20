@@ -24,7 +24,7 @@ Make .env File and inside the file
 BOT_TOKEN= Token
 GROUP_ID= ID
 ```
-Enter Group ID with " - " simbol Eg: -100845213XXXX
+Enter Group ID with " - " simbol Eg: " -100845213XXXX "
 
 ---
 ### 👨‍💻 Programming languages
