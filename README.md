@@ -21,9 +21,10 @@ To use :
 Make .env File and inside the file
 
 ```bash
-BOT_TOKEN=70####8488:AA#############k1CZ########kCI
-GROUP_ID=-10#######5668
+BOT_TOKEN= Token
+GROUP_ID= ID
 ```
+Enter Group ID with " - " simbol Eg: -100845213XXXX
 
 ---
 ### 👨‍💻 Programming languages
