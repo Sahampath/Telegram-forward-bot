@@ -16,7 +16,7 @@
 <h5 align="center"> A simple Images / Viedos forward bot.</h5>
 <p1 align="center"> You can forward video or image to the bot, Bot will upload it in to your Channel / Group. he is not going to forward it in to your Channel / Group. </p1>
 
-
+---
 To use :
 Make .env File and inside the file
 
