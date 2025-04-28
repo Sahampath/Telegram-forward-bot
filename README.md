@@ -38,7 +38,7 @@ A Telegram bot that automatically forwards images, videos, and GIFs (animations)
 
 >>> Create a `.env` file with your bot token and group ID.
 
->>> Run the bot with python bot.py.
+>>> Run the bot with `python app.py`.
 
 ---
 To use :
