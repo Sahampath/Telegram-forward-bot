@@ -18,27 +18,27 @@
 A Telegram bot that automatically forwards images, videos, and GIFs (animations) sent to it to a specified group. The bot can handle both individual media messages and media groups (multiple messages sent together). It supports a delay for media groups, sending them all at once to maintain the order.
 
 ### Features:
-/start command: Sends a greeting message explaining the bot's functionality.
+        /start command: Sends a greeting message explaining the bot's functionality.
 
-Media Handling: Forwards photos, videos, and GIFs to a specified Telegram group.
+        Media Handling: Forwards photos, videos, and GIFs to a specified Telegram group.
 
-Media Group Support: Collects and forwards media sent as part of a media group.
+        Media Group Support: Collects and forwards media sent as part of a media group.
 
-Environment Configuration: Uses environment variables to configure the bot token and group ID.
+        Environment Configuration: Uses environment variables to configure the bot token and group ID.
 
 ### Requirements:
-Python 3.7+
+        Python 3.7+
 
-`python-telegram-bot` library
+        `python-telegram-bot` library
 
-`.env` file for storing bot token and group ID
+        `.env` file for storing bot token and group ID
 
-Setup:
-Clone the repository.
+### Setup:
+        Clone the repository.
 
-Create a `.env` file with your bot token and group ID.
+        Create a `.env` file with your bot token and group ID.
 
-Run the bot with python bot.py.
+        Run the bot with python bot.py.
 
 ---
 To use :
